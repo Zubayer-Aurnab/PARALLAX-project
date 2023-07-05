@@ -1,0 +1,15 @@
+@media  screen and (max-width:600px) {
+    .pimg1{
+        min-height: 100%;
+    }
+    .pimg3{
+        min-height: 100%;
+    }
+    .textBg{
+        background-color: #313534;
+        color: white;
+        padding: 3px;
+      }
+    
+   
+}
